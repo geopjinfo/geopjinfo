@@ -1,6 +1,5 @@
 - 👋 Hi, I’m George Joseph
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me -> info@georgepj.me
 
