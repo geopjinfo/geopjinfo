@@ -1,0 +1,7 @@
+node_modules/
+*.png
+!assets/**/*.png
+__pycache__/
+previews/
+package.json
+package-lock.json
